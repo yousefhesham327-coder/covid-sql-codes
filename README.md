@@ -1,1 +1,1 @@
-# covid-sql-codes
+# SQL-codes
